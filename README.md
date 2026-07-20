@@ -27,6 +27,4 @@ I built this project to practice creating web pages, styling them with CSS, usin
 
 https://roshi-collab.github.io/photography-website/
 
-## Author
 
-Rahma Mohamed
